@@ -1,6 +1,4 @@
-Skip to content
-You said:
-I have created a portfolio from lovable:this is the readme file: # Welcome to your Lovable project
+
 
 ## Project info
 
